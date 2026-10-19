@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+  <title id="title">italomarques2 — Desenvolvimento web</title>
+  <desc id="desc">Banner azul escuro com detalhes em verde e uma janela de código. Fundamentos, prática e evolução.</desc>
+  <defs>
+    <linearGradient id="background" x2="1" y2="1">
+      <stop stop-color="#0b1220"/>
+      <stop offset="1" stop-color="#172d48"/>
+    </linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M 32 0 H 0 V 32" fill="none" stroke="#9ac1df" stroke-opacity=".07"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="300" rx="20" fill="url(#background)"/>
+  <rect width="1200" height="300" rx="20" fill="url(#grid)"/>
+  <rect x="52" y="52" width="5" height="196" rx="2" fill="#5eead4"/>
+  <text x="82" y="83" font-family="Segoe UI,Arial,sans-serif" font-size="15" font-weight="600" letter-spacing="3" fill="#5eead4">DESENVOLVIMENTO WEB</text>
+  <text x="80" y="155" font-family="Segoe UI,Arial,sans-serif" font-size="58" font-weight="700" fill="#f1f5f9">italomarques2</text>
+  <text x="83" y="201" font-family="Segoe UI,Arial,sans-serif" font-size="22" fill="#b5c7dc">Fundamentos, prática e evolução.</text>
+  <rect x="825" y="56" width="315" height="188" rx="12" fill="#0b1525" stroke="#344960"/>
+  <path d="M 825 96 H 1140" stroke="#344960"/>
+  <circle cx="848" cy="77" r="5" fill="#5eead4"/>
+  <circle cx="866" cy="77" r="5" fill="#78a5d0"/>
+  <circle cx="884" cy="77" r="5" fill="#536d88"/>
+  <g font-family="Consolas,monospace" font-size="22">
+    <text x="854" y="139" fill="#5eead4">learn();</text>
+    <text x="854" y="174" fill="#93c5fd">build();</text>
+    <text x="854" y="209" fill="#c4b5fd">improve();</text>
+  </g>
+</svg>

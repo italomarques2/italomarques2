@@ -1,32 +1,63 @@
 <p align="center">
-  <img src="assets/banner.svg" alt="italomarques2 — Desenvolvimento web. Fundamentos, prática e evolução." width="100%">
+  <img src="assets/banner.svg" alt="Italo Marques — Arte 3D e desenvolvimento web. Estudos em Three.js, WebGL e JavaScript." width="100%">
 </p>
 
-# Olá! Sou @italomarques2
+# Olá, eu sou o Italo Marques 👋
 
-Estou estudando desenvolvimento web e construindo minha base em **HTML, CSS e JavaScript**. Quero transformar o aprendizado em aplicações úteis e entender as decisões por trás do código.
+<img align="right" src="assets/italo-low-poly.gif" alt="Meu avatar cartoon 3D low poly: olhos abertos e depois sorrindo de olhos fechados fazendo sinal de legal." width="180">
 
-### Em estudo e prática
+**Artista 3D · Desenvolvimento web · Three.js em estudo**
+
+Meu ramo é o **3D**. Estou ampliando minha atuação para o **desenvolvimento web** e estudando **Three.js** para conectar minha base artística a experiências interativas no navegador.
+
+### 🧊 Sobre mim
+
+- Tenho experiência com projetos 3D, modelagem e animação.
+- Estudo a construção de cenas, geometrias, materiais, iluminação e interação com Three.js.
+- Quero aproximar criação visual e programação, transformando cenas em experiências que as pessoas possam explorar.
+- Continuo minha formação em desenvolvimento web, aplicando os fundamentos em estudos e projetos.
+
+### 🛠️ Tecnologias e prática
+
+Minha base está na criação 3D. Estas são as tecnologias que estou estudando e aplicando na evolução para a web:
 
 <p>
+  <a href="https://threejs.org/"><img src="assets/threejs.svg" alt="Three.js" height="28"></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/API/WebGL_API"><img src="assets/webgl.svg" alt="WebGL" height="28"></a>
+  <img src="assets/javascript.svg" alt="JavaScript" height="28">
   <img src="assets/html5.svg" alt="HTML5" height="28">
   <img src="assets/css.svg" alt="CSS" height="28">
-  <img src="assets/javascript.svg" alt="JavaScript" height="28">
   <img src="assets/git.svg" alt="Git" height="28">
 </p>
 
-Atualmente, meu foco está em lógica de programação, funções, callbacks e interação com páginas web.
+| Área | Foco |
+| --- | --- |
+| **Base artística** | Criação 3D, modelagem, composição visual e animação. |
+| **Estudos de 3D na web** | Three.js, WebGL, geometrias, materiais e iluminação. |
+| **Movimento e interação** | Estudos de animação, hierarquia de objetos e controles de câmera. |
+| **Desenvolvimento web** | JavaScript, HTML, CSS e Git. |
 
-### Código e aprendizado
+### 🔒 Projetos e portfólio
+
+Parte dos meus projetos 3D tem restrições de divulgação por direitos autorais. Por isso, nem todo o trabalho que desenvolvo pode aparecer em repositórios públicos.
+
+Meu objetivo aqui é compartilhar estudos, experimentos próprios e soluções que eu possa disponibilizar, documentando o processo e as decisões técnicas.
+
+### 📂 Código público
 
 | Repositório | O que você encontra |
 | --- | --- |
-| [Web Development Lab](https://github.com/italomarques2/web-development-lab) | Exercícios explicados, funções e callbacks, demonstração executável e testes automatizados. |
+| [Web Development Lab](https://github.com/italomarques2/web-development-lab) | Formação complementar em desenvolvimento web: exercícios explicados, callbacks e testes automatizados. |
 
-### Minha direção
+### 📊 Atividade pública no GitHub
 
-- Consolidar os fundamentos com exercícios e desafios próprios.
-- Construir um organizador de estudos em JavaScript como próximo projeto.
-- Evoluir para APIs, React, Node.js e PostgreSQL conforme concluir cada etapa.
+<p>
+  <img src="assets/stats.svg" alt="Estatísticas da atividade pública de italomarques2 no GitHub" width="440">
+  <img src="assets/languages.svg" alt="Linguagens presentes nos repositórios públicos de italomarques2" width="330">
+</p>
 
-Busco documentar dificuldades, decisões e verificações para tornar minha evolução visível.
+<sub>Os gráficos refletem apenas os repositórios e a atividade públicos no GitHub.</sub>
+
+### 🤝 Vamos nos conectar
+
+<a href="https://www.linkedin.com/in/italo-marques-423270214/"><img src="assets/linkedin.svg" alt="Meu perfil no LinkedIn" height="28"></a>

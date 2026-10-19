@@ -1,18 +1,18 @@
 <p align="center">
-  <img src="assets/banner.svg" alt="Italo Marques — Arte 3D e desenvolvimento web. Estudos em Three.js, WebGL e JavaScript." width="100%">
+  <img src="assets/banner.svg" alt="Italo Marques — Game Developer e Artista 3D. Estudos em Three.js, WebGL e JavaScript." width="100%">
 </p>
 
 # Olá, eu sou o Italo Marques 👋
 
 <img align="right" src="assets/italo-low-poly.gif" alt="Meu avatar cartoon 3D low poly: olhos abertos e depois sorrindo de olhos fechados fazendo sinal de legal." width="180">
 
-**Artista 3D · Desenvolvimento web · Three.js em estudo**
+**Game Developer · Artista 3D · Three.js em estudo**
 
-Meu ramo é o **3D**. Estou ampliando minha atuação para o **desenvolvimento web** e estudando **Three.js** para conectar minha base artística a experiências interativas no navegador.
+Sou **Game Developer e artista 3D**. Estou ampliando minha atuação para o **desenvolvimento web** e estudando **Three.js** para conectar criação visual, jogos e experiências interativas no navegador.
 
 ### 🧊 Sobre mim
 
-- Tenho experiência com projetos 3D, modelagem e animação.
+- Atuo com desenvolvimento de jogos, projetos 3D, modelagem e animação.
 - Estudo a construção de cenas, geometrias, materiais, iluminação e interação com Three.js.
 - Quero aproximar criação visual e programação, transformando cenas em experiências que as pessoas possam explorar.
 - Continuo minha formação em desenvolvimento web, aplicando os fundamentos em estudos e projetos.
@@ -32,6 +32,7 @@ Minha base está na criação 3D. Estas são as tecnologias que estou estudando 
 
 | Área | Foco |
 | --- | --- |
+| **Game Development** | Criação de jogos e experiências interativas. |
 | **Base artística** | Criação 3D, modelagem, composição visual e animação. |
 | **Estudos de 3D na web** | Three.js, WebGL, geometrias, materiais e iluminação. |
 | **Movimento e interação** | Estudos de animação, hierarquia de objetos e controles de câmera. |
@@ -57,6 +58,12 @@ Meu objetivo aqui é compartilhar estudos, experimentos próprios e soluções q
 </p>
 
 <sub>Os gráficos refletem apenas os repositórios e a atividade públicos no GitHub.</sub>
+
+### 🕹️ Contribution Quest
+
+<p align="center">
+  <img src="assets/contribution-quest.svg" alt="Cobrinha neon ciano e violeta percorrendo meu gráfico público de contribuições." width="100%">
+</p>
 
 ### 🤝 Vamos nos conectar
 
